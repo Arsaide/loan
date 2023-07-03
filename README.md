@@ -8,4 +8,6 @@ Practice with a *construction try-catch, OOP, forms*
 
 ## Links
 Main page [CLICK](https://arsaide.github.io/loan/)
-To open the second page [CLICK](ttps://arsaide.github.io/loan/modules.html)
+
+
+To open the second page [CLICK](https://arsaide.github.io/loan/modules.html)
